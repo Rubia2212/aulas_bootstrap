@@ -1,0 +1,30 @@
+body{
+    font: 20px Arial,sans-serif;
+}
+.navbar{
+    background-color:green;
+    font: 20px small-caption;
+}
+.quemsomos{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+}
+.servicos{
+    background-color: blue;
+    color: khaki;
+    font-style: italic;
+}
+.parceiros{
+    background-color: #c20202b6;
+    color: black;
+    font-style: italic;
+}
+.margin{
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+.bg-footer{
+    background-color: black;
+    color:aqua;
+}
